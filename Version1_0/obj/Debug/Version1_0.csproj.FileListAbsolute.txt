@@ -1,0 +1,36 @@
+E:\visual studio 2012\Projects\Version1_0\Version1_0\bin\Debug\Version1_0.exe
+E:\visual studio 2012\Projects\Version1_0\Version1_0\bin\Debug\Version1_0.pdb
+E:\visual studio 2012\Projects\Version1_0\Version1_0\obj\Debug\Version1_0.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\Projects\Version1_0\Version1_0\obj\Debug\Version1_0.Properties.Resources.resources
+E:\visual studio 2012\Projects\Version1_0\Version1_0\obj\Debug\Version1_0.csproj.GenerateResource.Cache
+E:\visual studio 2012\Projects\Version1_0\Version1_0\obj\Debug\Version1_0.exe
+E:\visual studio 2012\Projects\Version1_0\Version1_0\obj\Debug\Version1_0.pdb
+E:\visual studio 2012\Projects\Version1_0\Version1_0\obj\Debug\Version1_0.MainForm.resources
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\obj\Debug\Version1_0.exe
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\obj\Debug\Version1_0.pdb
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\bin\Debug\Version1_0.exe
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\bin\Debug\Version1_0.pdb
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\obj\Debug\Version1_0.csprojResolveAssemblyReference.cache
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\obj\Debug\Version1_0.MainForm.resources
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\obj\Debug\Version1_0.Properties.Resources.resources
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\obj\Debug\Version1_0.csproj.GenerateResource.Cache
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\obj\Debug\Interop.VBIDE.dll
+C:\Users\76558_000\Desktop\Version1_0_1\Version1_0\Version1_0\obj\Debug\Version1_0.csproj.ResolveComReference.cache
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\obj\Debug\Interop.VBIDE.dll
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\obj\Debug\Version1_0.csproj.ResolveComReference.cache
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\obj\Debug\Version1_0.exe
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\obj\Debug\Version1_0.pdb
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\bin\Debug\Version1_0.exe
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\bin\Debug\Version1_0.pdb
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\obj\Debug\Version1_0.csprojResolveAssemblyReference.cache
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\obj\Debug\Version1_0.MainForm.resources
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\obj\Debug\Version1_0.Properties.Resources.resources
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\Version1_0\obj\Debug\Version1_0.csproj.GenerateResource.Cache
+G:\学习\大三\大三下\敏捷开发\敏捷final\Version3_1(完整版)+测试\Version1_0\obj\Debug\Interop.VBIDE.dll
+G:\学习\大三\大三下\敏捷开发\敏捷final\Version3_1(完整版)+测试\Version1_0\obj\Debug\Version1_0.csproj.ResolveComReference.cache
+G:\学习\大三\大三下\敏捷开发\敏捷final\Version3_1(完整版)+测试\Version1_0\obj\Debug\Version1_0.exe
+G:\学习\大三\大三下\敏捷开发\敏捷final\Version3_1(完整版)+测试\Version1_0\obj\Debug\Version1_0.pdb
+G:\学习\大三\大三下\敏捷开发\敏捷final\Version3_1(完整版)+测试\Version1_0\obj\Debug\Version1_0.csprojResolveAssemblyReference.cache
+G:\学习\大三\大三下\敏捷开发\敏捷final\Version3_1(完整版)+测试\Version1_0\obj\Debug\Version1_0.MainForm.resources
+G:\学习\大三\大三下\敏捷开发\敏捷final\Version3_1(完整版)+测试\Version1_0\obj\Debug\Version1_0.Properties.Resources.resources
+G:\学习\大三\大三下\敏捷开发\敏捷final\Version3_1(完整版)+测试\Version1_0\obj\Debug\Version1_0.csproj.GenerateResource.Cache

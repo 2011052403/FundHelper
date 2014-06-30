@@ -1,0 +1,7 @@
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\UnitTestProject1\bin\Debug\Version1_0.exe
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\UnitTestProject1\bin\Debug\Version1_0.pdb
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\QQ缓存\710971543\FileRecv\Version3_1(完整版)\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
